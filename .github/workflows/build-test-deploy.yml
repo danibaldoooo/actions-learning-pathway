@@ -23,6 +23,6 @@ jobs:
           with:
             node-version: '18.x'
         - run: npm install
-        - run: npm tes
+        - run: npm test
         
          
